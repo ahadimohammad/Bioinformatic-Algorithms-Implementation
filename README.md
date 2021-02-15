@@ -1,2 +1,2 @@
 # Bioinformatic-Algorithms-Implementation
-implementing some important bioinformatic algorithms
+implementation of some important bioinformatic algorithms
